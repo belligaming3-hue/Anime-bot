@@ -9,7 +9,7 @@ import datetime
 from collections import defaultdict
 
 # Bot tokenini kiriting
-TOKEN = 'YOUR_BOT_TOKEN_HERE'  # BotFather'dan olingan token
+TOKEN = '8228698744:AAGXRtJs30Pe2ngjdzSYIDLYLbcKbdPgyu4'  # BotFather'dan olingan token
 bot = Bot(token=TOKEN, default=DefaultBotProperties(parse_mode='HTML'))
 dp = Dispatcher()
 router = Router()
